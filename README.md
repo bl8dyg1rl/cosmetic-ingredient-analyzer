@@ -23,7 +23,7 @@ El sistema está diseñado para posteriormente incorporar un **agente de IA capa
 
 ---
 ## Imagenes
-![Inicio](/images/inicio.jpeg)
+![Inicio](/assets/inicio.jpeg)
 
 
 
