@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: cosmetic_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: cosmetic_user
+      POSTGRES_PASSWORD: cosmetic_password
+      POSTGRES_DB: cosmetic_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
