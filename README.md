@@ -23,10 +23,11 @@ El sistema está diseñado para posteriormente incorporar un **agente de IA capa
 
 ---
 ## Imagenes
-![Inicio](/assets/inicio.jpeg)
-![Escaner](/assets/escaner.jpeg)
-![Resultado 1](/assets/resultados.jpeg)
-![Resultado 2](/assets/resultados_2.jpeg)
+<img src="/assets/inicio.jpeg" alt="Inicio" width="50%">
+<img src="/assets/escaner.jpeg" alt="Escaner" width="50%">
+<img src="/assets/resultados.jpeg" alt="Resultado 1" width="50%">
+<img src="/assets/resultados_2.jpeg" alt="Resultado 2" width="50%">
+
 
 ---
 
