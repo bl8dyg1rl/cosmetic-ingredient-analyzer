@@ -24,8 +24,9 @@ El sistema está diseñado para posteriormente incorporar un **agente de IA capa
 ---
 ## Imagenes
 ![Inicio](/assets/inicio.jpeg)
-
-
+![Escaner](/assets/escaner.jpeg)
+![Resultado 1](/assets/resultados.jpeg)
+![Resultado 2](/assets/resultados_2.jpeg)
 
 ---
 
