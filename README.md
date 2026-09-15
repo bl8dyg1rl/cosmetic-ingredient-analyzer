@@ -22,6 +22,12 @@ La aplicación permite al usuario:
 El sistema está diseñado para posteriormente incorporar un **agente de IA capaz de investigar ingredientes que todavía no estén registrados en la base de datos y almacenar la información obtenida como conocimiento reutilizable**.
 
 ---
+## Imagenes
+![Inicio](/images/inicio.jpeg)
+
+
+
+---
 
 ## 🏗️ Arquitectura
 
